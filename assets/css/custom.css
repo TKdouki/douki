@@ -4,3 +4,7 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+
+.logo-main {
+    height:70px;
+}
