@@ -549,10 +549,6 @@ background-color: #fff;
 
 img {max-width:100%;height: auto;}
 
-img .logo-main {
-    height: 70px;
-}
-
 .bottompagination span.navigation a {
 	background: #fdd93d;
     color: #333;
@@ -616,4 +612,8 @@ span.navigation:before {
 .hover-opacity:hover {
     transition: all.3s;
     opacity:.8;
+}
+
+.logo-main {
+    height: 70px;
 }
